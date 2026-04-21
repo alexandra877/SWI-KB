@@ -4,25 +4,25 @@
 # Your AI agent will guide you through this if you ask.
 
 kb:
-  name: # TODO: Your Organisation Knowledge Base
+  name: Visma Software International
   platform: git
   main_ref: main
   language: en  # Change if needed: ro, de, fr, es, etc.
-  repository: # TODO: https://github.com/your-org/your-kb-repo
-  org_type: # TODO: startup | scaleup | enterprise
+  repository: https://github.com/alexandra877/SWI-KB.git
+  org_type: enterprise
   # startup    → founders.md + advisors.md in 1-company/2-structure/
   # scaleup    → founders.md + advisors.md + leadership.md
   # enterprise → leadership.md + key-roles.md only
 
 owners:
-  1-company: # TODO: GitHub username — approves company-layer changes
-  2-departments: # TODO: GitHub username (can be same person)
-  3-products: # TODO: GitHub username
-  4-projects: # TODO: GitHub username
+  1-company: alexandra877
+  2-departments: alexandra877
+  3-products: alexandra877
+  4-projects: alexandra877
 
 notifications:
-  channel: # TODO: '#kb-updates' (Slack channel) or email@example.com
-  method: slack  # Options: slack | email | teams | none
+  channel: alexandra.ciupe@visma.com
+  method: email  # Options: slack | email | teams | none
 
 skills:
   version: "1.0"
