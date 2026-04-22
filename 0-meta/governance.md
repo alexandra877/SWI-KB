@@ -40,9 +40,17 @@ Sub-department content within `2-departments/1-workspace-technology/` is owned b
 ## Change Approval Rules
 
 - All changes go through a branch + pull request — no direct commits to `main`
-- The layer owner must approve the PR before it is merged
 - The agent proposes changes; a human owner merges
 - Notifications are sent to `alexandra.ciupe@visma.com` when a PR is opened
+
+### Content Policy
+
+| Content type | Approval required |
+|-------------|-------------------|
+| How-to guides / step-by-step | None — publish directly |
+| Process changes | Layer/team owner approves before publish |
+| Access rules / license policies | Owner + backup approves |
+| Anything cross-team | Both team owners must sign off |
 
 ---
 
