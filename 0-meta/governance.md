@@ -1,13 +1,17 @@
-# 0. KB Governance
+# 0. KB Governance — SWI-KB (Workspace Technology)
 
 **Owner:** alexandra877
 **Last reviewed:** 2026-04-22
 
 ---
 
-## Layer Ownership
+## 1. Ownership
 
-Each KB layer has a designated owner who approves all changes before they are merged to main.
+- One named owner per area at sub-department level
+- Documented in this file
+- CODEOWNERS file: post-MVP
+
+### Layer Ownership
 
 | Layer | Owner |
 |-------|-------|
@@ -17,11 +21,7 @@ Each KB layer has a designated owner who approves all changes before they are me
 | `3-products` | alexandra877 |
 | `4-projects` | alexandra877 |
 
----
-
-## Workspace Technology — Team Ownership
-
-Sub-department content within `2-departments/1-workspace-technology/` is owned by the respective team lead.
+### Workspace Technology — Team Ownership
 
 | Team | Owner |
 |------|-------|
@@ -37,23 +37,45 @@ Sub-department content within `2-departments/1-workspace-technology/` is owned b
 
 ---
 
-## Change Approval Rules
-
-- All changes go through a branch + pull request — no direct commits to `main`
-- The agent proposes changes; a human owner merges
-- Notifications are sent to `alexandra.ciupe@visma.com` when a PR is opened
-
-### Content Policy
+## 2. Content Policy
 
 | Content type | Approval required |
 |-------------|-------------------|
 | How-to guides / step-by-step | None — publish directly |
-| Process changes | Layer/team owner approves before publish |
+| Process changes | Owner approves before publish |
 | Access rules / license policies | Owner + backup approves |
-| Anything cross-team | Both team owners must sign off |
+| Cross-team content | Both team owners sign off |
+
+---
+
+## 3. Approvers
+
+| Role | Name |
+|------|------|
+| Primary | Alexandra Ciupe |
+| Backup | Andrei Muntean |
+
+---
+
+## 4. Escalation Path
+
+| Trigger | Action |
+|---------|--------|
+| Agent confidence < 80% | Jira ticket created automatically |
+| Weekly report | Slack DM to each area owner with unanswered questions for their domain |
+| Owner | Updates doc → opens PR → review → merge |
+| Agent | Syncs on next pull |
+
+---
+
+## 5. Heartbeat
+
+- **Cadence:** Weekly
+- **Mechanism:** Reporting cycle — unanswered question map per domain
+- **Goal:** Cut current 4-week knowledge lag to 1 week
 
 ---
 
 ## For Agents
 
-When proposing a change, tag the owner listed above for the target layer or team. If the content spans multiple layers, tag the highest applicable owner.
+When proposing a change, tag the owner listed above for the target layer or team. If the content spans multiple layers, tag the highest applicable owner. If confidence is below 80%, open a Jira ticket rather than publishing directly.
