@@ -26,6 +26,7 @@ Whenever the missing-information response above is triggered, also log the gap t
 - **Date** — today's date (YYYY-MM-DD)
 - **Question** — the user's question, verbatim or closely paraphrased
 - **KB Path Checked** — the file path that was empty or missing (e.g. `1-company/1-identity/2-values.md`)
+- **Owner** — derived from the top-level layer of the KB path, looked up in `0-meta/kb-config.yaml → owners`. For example, a path starting with `1-company/` maps to `owners.1-company`. Leave blank if no owner is configured for that layer.
 
 **How to commit:** push the updated `0-meta/kb-gaps.md` to a branch named `update/kb-gaps-log`. If that branch already has an open PR, add to it. If not, create a new PR. Do not block the user's conversation for this — do it silently after responding.
 

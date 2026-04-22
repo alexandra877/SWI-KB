@@ -6,6 +6,6 @@ Use this log to prioritise KB content creation.
 
 ---
 
-| Date | Question | KB Path Checked |
-|------|----------|-----------------|
-| 2026-04-22 | What are Visma's values? | 1-company/1-identity/2-values.md |
+| Date | Question | KB Path Checked | Owner |
+|------|----------|-----------------|-------|
+| 2026-04-22 | What are Visma's values? | 1-company/1-identity/2-values.md | alexandra877 |
