@@ -2,6 +2,10 @@
 
 One subfolder per project. Projects are time-bounded; products are ongoing.
 
+## Active Projects
+
+- `1-ai-championship/` — BusTech & Procurement AI Championship Program (launched March 2026, Linnéa Odqvist)
+
 ## Adding a project
 
 Copy `_template/` into a numbered folder — `1-project-name/`. Start with `1-scope.md` — it defines everything else.

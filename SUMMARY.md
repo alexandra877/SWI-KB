@@ -53,6 +53,9 @@
 
 ## 4. Projects
 * [Projects](4-projects/README.md)
+  * [AI Championship Program](4-projects/1-ai-championship/README.md)
+    * [Scope](4-projects/1-ai-championship/1-scope.md)
+    * [Plan & Teams](4-projects/1-ai-championship/2-plan.md)
   * [Template](4-projects/_template/README.md)
 
 ## 5. Agents
