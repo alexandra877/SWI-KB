@@ -6,6 +6,7 @@ Cross-functional project team that coordinates the technical lifecycle of employ
 
 - **Purpose:** Ensure seamless, consistent, and secure technology setup and teardown for all employees joining or leaving Visma
 - **Lead:** Iulian George Iftode
+- **Owner:** Iulian George Iftode
 - **Type:** Cross-functional (draws from all WT functional teams)
 - **Last updated:** 2026-04-22
 

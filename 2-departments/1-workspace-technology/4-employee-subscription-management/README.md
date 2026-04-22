@@ -6,6 +6,7 @@ Manages employee software subscriptions, licenses, the MyTools platform, and the
 
 - **Purpose:** Enable employees to access, request, and manage software subscriptions and licenses across Visma
 - **Manager:** Alexandra Ciupe
+- **Owner:** Alexandra Ciupe
 - **Last updated:** 2026-04-22
 
 ## Contents

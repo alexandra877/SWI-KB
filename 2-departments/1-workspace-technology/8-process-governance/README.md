@@ -6,6 +6,7 @@ Drives operational process improvement, ISO/ISAE compliance, and cross-WT and cr
 
 - **Purpose:** Ensure Workspace Technology operates consistently, compliantly, and at a documented standard across all teams
 - **Manager:** Ayse Ozcelik
+- **Owner:** Ayse Ozcelik
 - **Team size:** 5
 - **Last updated:** 2026-04-22
 

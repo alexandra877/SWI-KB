@@ -6,6 +6,7 @@ Regional team providing device management, local onboarding/offboarding, and IT 
 
 - **Purpose:** Deliver Workspace Technology services locally for LATAM employees, including device management, regional onboarding, and on-the-ground support
 - **Manager:** Gabriel Del Torto
+- **Owner:** Gabriel Del Torto
 - **Team size:** 6 (plus coordination contacts)
 - **Last updated:** 2026-04-22
 

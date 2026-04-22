@@ -6,6 +6,7 @@ Manages the development tools environment, Atlassian stack, Gemini for Workspace
 
 - **Purpose:** Enable engineering teams with the tooling, integrations, and infrastructure needed to build and ship software
 - **Manager:** Adrian Mihai
+- **Owner:** Adrian Mihai
 - **Team size:** 12
 - **Last updated:** 2026-04-22
 

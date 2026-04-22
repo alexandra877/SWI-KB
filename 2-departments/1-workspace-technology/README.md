@@ -15,6 +15,7 @@ Workspace Technology is part of the Business Technology organization. We enable 
 ## Leadership
 
 - **VP/Head:** Sergiu-Valentin Dilimot (reporting to Business Technology leadership)
+- **Owner:** Sergiu-Valentin Dilimot
 
 ## Contents
 

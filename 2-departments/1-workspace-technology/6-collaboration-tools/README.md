@@ -6,6 +6,7 @@ Manages Google Workspace, Slack, Visma Space, and Google Meet — including 24/7
 
 - **Purpose:** Keep Visma's collaboration infrastructure running reliably and support employees across communication platforms
 - **Manager:** Andreia Stefania Tutuianu
+- **Owner:** Andreia Stefania Tutuianu
 - **Team size:** 7
 - **Last updated:** 2026-04-22
 
