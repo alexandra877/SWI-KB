@@ -5,6 +5,9 @@ This folder contains standard operating procedures, runbooks, and repeatable wor
 ## Current Processes
 
 - `gmail-2fa-update.md` — Employee self-service guide for updating Gmail 2FA (phone and authenticator)
+- `entraid-mfa.md` — Visma EntraID account setup and mandatory MFA configuration
+- `authenticator-app-setup.md` — Installing and registering the Microsoft Authenticator app on mobile
+- `linotp-tokens.md` — Managing LinOTP tokens (enroll, delete, reset failcounter) for VPN and AWS access
 
 ## Process template
 

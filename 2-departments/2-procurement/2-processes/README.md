@@ -2,6 +2,10 @@
 
 This folder contains standard operating procedures for procurement, vendor management, and contract lifecycle workflows.
 
+## Current Processes
+
+- `licenses-process.md` — How to request, purchase, and renew software licenses (MyTools, support.visma.com, per-tool FAQ)
+
 ## Process template
 
 Copy `process-template.md` to create new process documentation. Each process should define:

@@ -31,6 +31,20 @@
 
 ## 2. Departments
 * [Departments](2-departments/README.md)
+  * [Workspace Technology](2-departments/1-workspace-technology/README.md)
+    * [Overview](2-departments/1-workspace-technology/1-overview.md)
+    * [Processes](2-departments/1-workspace-technology/2-processes/README.md)
+      * [EntraID & MFA Setup](2-departments/1-workspace-technology/2-processes/entraid-mfa.md)
+      * [Microsoft Authenticator App Setup](2-departments/1-workspace-technology/2-processes/authenticator-app-setup.md)
+      * [Gmail 2FA Update](2-departments/1-workspace-technology/2-processes/gmail-2fa-update.md)
+      * [Managing LinOTP Tokens](2-departments/1-workspace-technology/2-processes/linotp-tokens.md)
+    * [Decisions](2-departments/1-workspace-technology/3-decisions/README.md)
+      * [2026 Strategy](2-departments/1-workspace-technology/3-decisions/2026-strategy.md)
+  * [Procurement](2-departments/2-procurement/README.md)
+    * [Overview](2-departments/2-procurement/1-overview.md)
+    * [Processes](2-departments/2-procurement/2-processes/README.md)
+      * [Software License Requests](2-departments/2-procurement/2-processes/licenses-process.md)
+    * [Contracts Registry](2-departments/2-procurement/contracts-registry.md)
   * [Template](2-departments/_template/README.md)
 
 ## 3. Products
