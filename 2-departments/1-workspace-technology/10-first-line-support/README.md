@@ -6,6 +6,7 @@ Virtual operational team providing first-line IT support across all Workspace Te
 
 - **Purpose:** Handle employee IT requests at first contact, triaging and resolving issues across Employee SaaS Tools, Engineering Tools, Collaboration Tools, Unified Access & Endpoint, and LATAM
 - **Lead:** Cristina Costeiu
+- **Owner:** Cristina Costeiu
 - **Type:** Virtual / operational (members drawn from all WT teams)
 - **Last updated:** 2026-04-22
 

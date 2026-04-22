@@ -6,6 +6,7 @@ Manages device management, identity and access management (IAM), office networks
 
 - **Purpose:** Protect and enable employee access through secure device management, IAM, and network infrastructure
 - **Manager:** Angela Lascu
+- **Owner:** Angela Lascu
 - **Team size:** 14
 - **Last updated:** 2026-04-22
 
