@@ -45,6 +45,7 @@
 | Process changes | Owner approves before publish |
 | Access rules / license policies | Owner + backup approves |
 | Cross-team content | Both team owners sign off |
+| **Any structural change** (folders, layers, file moves, renames) | **alexandra877 must approve — no exceptions** |
 
 ---
 
