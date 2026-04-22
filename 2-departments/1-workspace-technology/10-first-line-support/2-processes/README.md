@@ -1,14 +1,19 @@
 # First-Line Support — Processes
 
-Triage SOPs, escalation paths, and support runbooks for the First-Line Support team.
+SOPs, runbooks, and support guides for the First-Line Support team.
 
 ## Current Processes
 
-*No processes documented yet. Add process files here following the process template in `1-workspace-technology/2-processes/process-template.md`.*
+- `entraid-mfa.md` — Visma EntraID account setup and mandatory MFA configuration
+- `authenticator-app-setup.md` — Installing and registering the Microsoft Authenticator app on mobile
+- `gmail-2fa-update.md` — Employee self-service guide for updating Gmail 2FA (phone and authenticator)
+- `linotp-tokens.md` — Managing LinOTP tokens (enroll, delete, reset failcounter) for VPN and AWS access
 
-## Process areas to document
+## Process template
 
-- Ticket triage and categorisation
-- Escalation matrix (which issues go to which team)
-- SLA definitions and priority levels
-- Known issue workarounds
+Copy `process-template.md` to create new process documentation. Each process should clearly define:
+- Owner and stakeholders
+- Prerequisites and trigger conditions
+- Step-by-step instructions
+- Escalation paths
+- Success criteria
