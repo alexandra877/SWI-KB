@@ -29,6 +29,8 @@ Ticket routed to Procurement
 
 ## License Request FAQ
 
+> If your tool is listed below, follow the tool-specific instructions — they take precedence over the general process above.
+
 ### GitHub
 
 Submit a request at [support.visma.com](https://support.visma.com).

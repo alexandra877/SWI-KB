@@ -1,23 +1,22 @@
 # Workspace Technology — Processes
 
-This folder contains standard operating procedures, runbooks, and repeatable workflows for Workspace Technology teams.
+WT-wide process documentation. Team-specific processes live in each sub-department's `2-processes/` folder.
 
 ## Current Processes
 
-- `gmail-2fa-update.md` — Employee self-service guide for updating Gmail 2FA (phone and authenticator)
-- `entraid-mfa.md` — Visma EntraID account setup and mandatory MFA configuration
-- `authenticator-app-setup.md` — Installing and registering the Microsoft Authenticator app on mobile
-- `linotp-tokens.md` — Managing LinOTP tokens (enroll, delete, reset failcounter) for VPN and AWS access
+*All processes have been moved to sub-department folders. See below.*
+
+| Process | New location |
+|---------|-------------|
+| EntraID & MFA Setup | `10-first-line-support/2-processes/entraid-mfa.md` |
+| Microsoft Authenticator App Setup | `10-first-line-support/2-processes/authenticator-app-setup.md` |
+| Gmail 2FA Update | `10-first-line-support/2-processes/gmail-2fa-update.md` |
+| Managing LinOTP Tokens | `10-first-line-support/2-processes/linotp-tokens.md` |
 
 ## Process template
 
-Copy `process-template.md` to create new process documentation. Each process should clearly define:
-- Owner and stakeholders
-- Prerequisites and trigger conditions
-- Step-by-step instructions
-- Escalation paths
-- Success criteria
+The process template lives at `10-first-line-support/2-processes/process-template.md`. Copy it to create new process documentation in any sub-department.
 
 ## For agents
 
-Load processes here to understand HOW Workspace Technology executes work: onboarding, support, deployments, compliance, etc.
+Load the relevant sub-department's `2-processes/` folder when looking for team-specific SOPs.
