@@ -57,4 +57,5 @@
 
 ## 5. Agents
 * [Agents](5-agents/README.md)
+  * [SWI KB Agent](5-agents/1-swi-kb-agent.md)
   * [Template](5-agents/_template/README.md)

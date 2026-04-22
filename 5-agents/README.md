@@ -2,6 +2,10 @@
 
 One file per agent. The audit trail for AI deployment in this organisation.
 
+## Deployed Agents
+
+- `1-swi-kb-agent.md` — Claude Code agent for reading and writing to this KB
+
 ## Adding an agent
 
 Copy `_template/README.md` to `1-agent-name.md`. Fill in the configuration, skills, and constraints. Open a PR — company-layer owner approves.
