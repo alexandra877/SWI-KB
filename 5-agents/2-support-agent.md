@@ -94,15 +94,15 @@ On the configured schedule (default: every Monday 09:00 CET):
 
 | Owner | Domain | Slack handle |
 |-------|--------|-------------|
-| Alexandra Ciupe | Employee SaaS Tools | <!-- TODO --> |
-| Adrian Mihai | Engineering Tools | <!-- TODO --> |
-| Andreia Stefania Tutuianu | Collaboration Tools | <!-- TODO --> |
-| Angela Lascu | Unified Access & Endpoint | <!-- TODO --> |
-| Ayse Ozcelik | Process & Governance | <!-- TODO --> |
-| Iulian George Iftode | Onboarding & Offboarding | <!-- TODO --> |
-| Cristina Costeiu | First-Line Support | <!-- TODO --> |
-| Gabriel Del Torto | ITC – LATAM | <!-- TODO --> |
-| Sergiu-Valentin Dilimot | WT Head (escalation) | <!-- TODO --> |
+| Alexandra Ciupe | Employee SaaS Tools | @Cosmina Felicia Bobes |
+| Adrian Mihai | Engineering Tools | @Cosmina Felicia Bobes |
+| Andreia Stefania Tutuianu | Collaboration Tools | @Cosmina Felicia Bobes |
+| Angela Lascu | Unified Access & Endpoint | @Cosmina Felicia Bobes |
+| Ayse Ozcelik | Process & Governance | @Cosmina Felicia Bobes |
+| Iulian George Iftode | Onboarding & Offboarding | @Cosmina Felicia Bobes |
+| Cristina Costeiu | First-Line Support | @Cosmina Felicia Bobes |
+| Gabriel Del Torto | ITC – LATAM | @Cosmina Felicia Bobes |
+| Sergiu-Valentin Dilimot | WT Head (escalation) | @Cosmina Felicia Bobes |
 
 ## Channels
 
