@@ -1,0 +1,6 @@
+The Google Workspace team focuses on streamlined signature management for larger groups, such as entire companies or departments, through automated solutions. This approach ensures consistent branding and information across your organization.
+Please note that we do **not **provide **individual **signature setup services. However, for Gmail users, we can implement a unified email signature format **based on your group or Organizational Unit **(OU).
+This service automatically pulls contact information directly from the Visma Organization Management (VOM) system, guaranteeing that any updates to your VOM profile are reflected in your signature. This service is provided at no cost. To initiate this process, simply email vit-d-workspace@visma.com and a team member will contact you shortly.
+For individual signature customization, we recommend two options:
+First, Google Support offers a comprehensive guide on setting up personal signatures, available .
+Second, Visma provides an  specifically for individual use. This tool features pre-designed Visma signature templates for a consistent brand identity. If your company requires a unique signature design, you can request a custom template through the generator. We encourage you to utilize these resources to maintain a professional and polished email presence.

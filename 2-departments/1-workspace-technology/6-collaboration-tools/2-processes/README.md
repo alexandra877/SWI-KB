@@ -4,11 +4,12 @@ Standard operating procedures and runbooks for the Collaboration Tools team.
 
 ## Current Processes
 
-*No processes documented yet. Add process files here following the process template in `1-workspace-technology/2-processes/process-template.md`.*
+- `ms-teams-licence.md` — How to request a Microsoft Teams (Office) licence
+
+For Google Workspace-specific processes, see [`4-google-workspace/2-processes/`](../4-google-workspace/2-processes/README.md).
 
 ## Process areas to document
 
-- Google Workspace account management
 - Slack workspace administration
 - Visma Space content management
 - Incident response for collaboration platform outages

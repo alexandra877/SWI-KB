@@ -1,0 +1,2 @@
+If you have a new phone and want to transfer the current work profile that you have from your old phone to your new one, it’s not possible. It is needed to install the work profile from 0.
+If you have any questions or issues in installing your work profile, please contact Visma Employee Support portal through https://jira.visma.com/servicedesk/customer/portal/8.
