@@ -70,13 +70,13 @@ When information is not found and the user wants to proceed:
 
 | Domain | Jira project/queue | Owner |
 |--------|-------------------|-------|
-| License requests (in MyTools) | <!-- TODO: Jira project key --> | Alexandra Ciupe |
-| License requests (not in MyTools) | <!-- TODO: Jira project key --> | Procurement |
-| Engineering tools (Jira, Confluence, Gemini, OpenAI API) | <!-- TODO: Jira project key --> | Adrian Mihai |
-| Collaboration tools (Google Workspace, Slack, Visma Space) | <!-- TODO: Jira project key --> | Andreia Stefania Tutuianu |
-| Access & identity (EntraID, MFA, devices) | <!-- TODO: Jira project key --> | Angela Lascu |
-| Onboarding / offboarding | <!-- TODO: Jira project key --> | Iulian George Iftode |
-| General / unclear | <!-- TODO: Jira project key --> | Cristina Costeiu (First-Line Support) |
+| License requests (in MyTools) | ESMT | Alexandra Ciupe |
+| License requests (not in MyTools) | ESMT | Procurement |
+| Engineering tools (Jira, Confluence, Gemini, OpenAI API) | ESMT | Adrian Mihai |
+| Collaboration tools (Google Workspace, Slack, Visma Space) | ESMT | Andreia Stefania Tutuianu |
+| Access & identity (EntraID, MFA, devices) | ESMT | Angela Lascu |
+| Onboarding / offboarding | ESMT | Iulian George Iftode |
+| General / unclear | ESMT | Cristina Costeiu (First-Line Support) |
 
 ### Weekly gap report
 
@@ -94,20 +94,20 @@ On the configured schedule (default: every Monday 09:00 CET):
 
 | Owner | Domain | Slack handle |
 |-------|--------|-------------|
-| Alexandra Ciupe | Employee SaaS Tools | <!-- TODO --> |
-| Adrian Mihai | Engineering Tools | <!-- TODO --> |
-| Andreia Stefania Tutuianu | Collaboration Tools | <!-- TODO --> |
-| Angela Lascu | Unified Access & Endpoint | <!-- TODO --> |
-| Ayse Ozcelik | Process & Governance | <!-- TODO --> |
-| Iulian George Iftode | Onboarding & Offboarding | <!-- TODO --> |
-| Cristina Costeiu | First-Line Support | <!-- TODO --> |
-| Gabriel Del Torto | ITC – LATAM | <!-- TODO --> |
-| Sergiu-Valentin Dilimot | WT Head (escalation) | <!-- TODO --> |
+| Alexandra Ciupe | Employee SaaS Tools | @Cosmina Felicia Bobes |
+| Adrian Mihai | Engineering Tools | @Cosmina Felicia Bobes |
+| Andreia Stefania Tutuianu | Collaboration Tools | @Cosmina Felicia Bobes |
+| Angela Lascu | Unified Access & Endpoint | @Cosmina Felicia Bobes |
+| Ayse Ozcelik | Process & Governance | @Cosmina Felicia Bobes |
+| Iulian George Iftode | Onboarding & Offboarding | @Cosmina Felicia Bobes |
+| Cristina Costeiu | First-Line Support | @Cosmina Felicia Bobes |
+| Gabriel Del Torto | ITC – LATAM | @Cosmina Felicia Bobes |
+| Sergiu-Valentin Dilimot | WT Head (escalation) | @Cosmina Felicia Bobes |
 
 ## Channels
 
 - Claude Code (local, MVP)
-- <!-- TODO: Slack bot (target deployment) -->
+- Slack — `#wt-employee-subscription-management` (mentions + DMs)
 - <!-- TODO: Employee portal integration (future) -->
 
 ## Constraints
