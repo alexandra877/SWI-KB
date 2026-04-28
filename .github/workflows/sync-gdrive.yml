@@ -1,0 +1,48 @@
+name: Sync Google Drive → _raw
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC. Adjust to taste (crontab.guru is handy).
+    - cron: "0 6 * * *"
+  workflow_dispatch:  # also allows manual trigger from the Actions tab
+
+permissions:
+  contents: write  # needed to commit & push
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run Drive sync
+        env:
+          GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+          # Set GDRIVE_RECURSIVE to "true" if you want to recurse into subfolders
+          GDRIVE_RECURSIVE: "false"
+        run: python scripts/sync_gdrive.py
+
+      - name: Commit new/updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _raw/
+          # Only commit if there are staged changes
+          git diff --cached --quiet || git commit -m "chore: sync _raw from Google Drive [$(date -u '+%Y-%m-%d')]"
+          git push

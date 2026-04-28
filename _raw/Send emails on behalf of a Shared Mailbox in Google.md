@@ -1,0 +1,5 @@
+| Description | How-To Guide - Google - Send emails on behalf of a Shared Mailbox |
+| --- | --- |
+| Purpose / Audience |  |
+| Scope | Any user that has access to a shared mailbox either as owner or as a delegated access |
+| How-to Guide | It is important to have access to the Shared Mailbox to be able to perform the steps below.  In your Google Mail settings go to Accounts and Import Down on the page, in the section “Send mail as:” click on Add another email address A new window will open and you will be asked to fill in a name and an email address. Fill in the address of the shared mailbox you want to send mails on behalf of. Click on Next Step then, click on Send Verification In the Shared Mailbox’s mailbox you will get a mail with a code and a link that you can click to confirm the process. Back in your mail, you can depending on what you did in the Shared Mailbox, you can either select Click the link in the confirmation email or type in the code you received All the steps are completed and you should be able to send mails from your personal mailbox on behalf of a shared mailbox. |
