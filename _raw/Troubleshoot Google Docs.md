@@ -1,0 +1,1 @@
+If something from google docs, or google docs itself is not working for you, please create a ticket .

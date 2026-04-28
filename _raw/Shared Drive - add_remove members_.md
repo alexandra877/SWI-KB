@@ -1,0 +1,5 @@
+| Description | Google - Shared Drive Members |
+| --- | --- |
+| Purpose / Audience | This routine needs to be followed by the Manager(s) of shared drives. If you are not one, you will not be allowed to perform member changes. |
+| Scope |  |
+| How-to Guide | Here is a short description of what the Manager of a Shared Drive needs to do to provide access to others and what each of the roles means.  In your Chrome browser, on the top right corner, you can access the 9 dots menu to go to the shared drive Once you are on your shared drive, click on the name of the shared drive Click on Manage Members In the new window, you can type the name or e-mail of the person you want to add. On the right side of the box where you can add new members, you can select the type of role you want to provide them. Here is the description of all types of roles you can provide: Viewer = access to view files Commenter = access to view and comment files Contributor = access to add and edit files Content Manager = access to add, edit, move, and delete files Manager = access to manage content, people, and settings |

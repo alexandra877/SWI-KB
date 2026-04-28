@@ -5,6 +5,7 @@ One file per agent. The audit trail for AI deployment in this organisation.
 ## Deployed Agents
 
 - `1-swi-kb-agent.md` — Claude Code agent for reading and writing to this KB
+- `2-support-agent.md` — Internal support agent for employees: answers WT questions, provisions license guidance, opens Jira tickets, logs gaps, and sends weekly Slack reports to owners
 
 ## Adding an agent
 

@@ -2,7 +2,7 @@
 
 Questions asked of the agent that could not be answered because the relevant KB content is missing or not yet populated.
 
-Use this log to prioritise KB content creation.
+The support agent reads this file to generate the weekly gap report sent to department owners via Slack. The KB maintenance agent reads it to prioritise content creation.
 
 ---
 
