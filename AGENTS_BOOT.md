@@ -30,7 +30,7 @@ Whenever the missing-information response above is triggered, also log the gap t
 - **Owner** — the team owner responsible for that domain (derive from the relevant sub-team overview)
 - **Status** — always `open` when first logged
 
-**How to commit:** push the updated `0-meta/kb-gaps.md` to a branch named `update/kb-gaps-log`. If that branch already has an open PR, add to it. If not, create a new PR. Do not block the user's conversation for this — do it silently after responding.
+**How to commit:** push the updated `0-meta/kb-gaps.md` to a branch named `update/kb-gaps-log`. If that branch already has an open PR, add to it. If not, create a new PR. Do this silently after responding — **never ask the user for confirmation before logging.**
 
 ---
 
