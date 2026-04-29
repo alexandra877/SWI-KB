@@ -9,3 +9,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | Date | Question | KB Path Checked | Domain | Owner | Status |
 |------|----------|-----------------|--------|-------|--------|
 | 2026-04-22 | What are Visma's values? | `1-company/1-identity/2-values.md` | Company Identity | alexandra877 | open |
+| 2026-04-29 | How much is a Udemy license? | | Licenses | | open |
