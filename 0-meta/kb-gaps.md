@@ -11,3 +11,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-04-22 | What are Visma's values? | `1-company/1-identity/2-values.md` | Company Identity | alexandra877 | open |
 | 2026-04-30 | I need a Udemy license? | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-04-30 | info about Duolingo | Unknown | @Cosmina Felicia Bobes | open |
+| 2026-04-30 | info about Duolingo | Unknown | @Cosmina Felicia Bobes | open |
