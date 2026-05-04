@@ -20,3 +20,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-05-04 | help with duolingo | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | test | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | test | Unknown | @Cosmina Felicia Bobes | open |
+| 2026-05-04 | duolingo | Unknown | @Cosmina Felicia Bobes | open |
