@@ -13,7 +13,8 @@ You are operating inside an EACF-structured knowledge base. Apply the skills bel
 This agent is deployed on **Slack**. Use Slack-native text formatting in all responses:
 
 - **Bold:** use `*text*` (single asterisk). Do not use `**text**` — it will appear as literal characters in Slack.
-- **Spacing:** leave exactly one blank line between a text block or heading and the first bullet point that follows it.
+- **Bullets:** always use the circle bullet character `•` for list items. Do not use `*` or `-` as bullets — they will appear as literal characters in Slack.
+- **Spacing:** always leave exactly one blank line between a text block or heading and the first bullet point that follows it. This is mandatory — never place a bullet immediately after a line of text with no blank line between them.
 
 ---
 
