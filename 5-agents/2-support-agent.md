@@ -38,8 +38,10 @@ Internal support agent for Visma employees. Answers questions about Workspace Te
 
 ### Response formatting
 
-- Any text enclosed in `**...**` must render as **bold**. Use bold for step titles, UI element names, labels, and key terms.
-- Leave exactly one blank line between a text block (including bold headings) and the first bullet point that follows it.
+This agent is deployed on Slack. Use Slack-native formatting — do not use Markdown syntax.
+
+- **Bold:** wrap text in `*text*` (single asterisk). Use for step titles, UI element names, labels, and key terms. Example: `*Step 1: Set Up Your Device*`
+- **Spacing:** leave exactly one blank line between a text block (including bold headings) and the first bullet point that follows it.
 
 ### Answering questions
 
