@@ -15,3 +15,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-04-30 | info about Duolingo | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | how do I install intune on Linux | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | my team's nps | Unknown | @Cosmina Felicia Bobes | open |
+| 2026-05-04 | duolingo | Unknown | @Cosmina Felicia Bobes | open |
