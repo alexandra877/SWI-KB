@@ -8,6 +8,15 @@ You are operating inside an EACF-structured knowledge base. Apply the skills bel
 
 ---
 
+## Response Formatting
+
+This agent is deployed on **Slack**. Use Slack-native text formatting in all responses:
+
+- **Bold:** use `*text*` (single asterisk). Do not use `**text**` — it will appear as literal characters in Slack.
+- **Spacing:** leave exactly one blank line between a text block or heading and the first bullet point that follows it.
+
+---
+
 ## Response Style — Missing Information
 
 When a user asks about a topic that is not yet in the KB (page is empty, contains only template placeholders, or does not exist), respond with:
