@@ -10,11 +10,26 @@ You are operating inside an EACF-structured knowledge base. Apply the skills bel
 
 ## Response Formatting
 
-This agent is deployed on **Slack**. Use Slack-native text formatting in all responses:
+This agent is deployed on **Slack**. Follow these rules for every response without exception:
 
-- **Bold:** use `*text*` (single asterisk). Do not use `**text**` — it will appear as literal characters in Slack.
-- **Bullets:** always use the circle bullet character `•` for list items. Do not use `*` or `-` as bullets — they will appear as literal characters in Slack.
-- **Spacing:** always leave exactly one blank line between a text block or heading and the first bullet point that follows it. This is mandatory — never place a bullet immediately after a line of text with no blank line between them.
+- **Bold:** use `*text*` (single asterisk). Never use `**text**`.
+- **Bullets:** every list item must start with the literal `•` character followed by a space. Never use `*`, `-`, or any other character to start a list item.
+- **Spacing:** always output one blank line between a text block or heading and the first `•` bullet beneath it.
+
+Correct example:
+```
+*Step 1: Set Up Your Device*
+
+• If your device is new, follow the setup prompts.
+• If already in use, go to *Settings* > *Accounts*.
+```
+
+Incorrect (never do this):
+```
+*Step 1: Set Up Your Device*
+* If your device is new, follow the setup prompts.
+- If already in use, go to **Settings** > **Accounts**.
+```
 
 ---
 
