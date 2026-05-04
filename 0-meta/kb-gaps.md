@@ -30,3 +30,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-05-04 | help with dsg | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | help with saf | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-04 | espresso help | Unknown | @Cosmina Felicia Bobes | open |
+| 2026-05-04 | espresso cappucionm | Unknown | @Cosmina Felicia Bobes | open |
