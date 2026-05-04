@@ -65,10 +65,14 @@ Derive the owner from the team overview for that domain (e.g., a question about 
 
 When information is not found and the user wants to proceed:
 
-1. Present the ticket details to the user before submitting using this exact prompt:
-   > "Would you like me to log a support ticket? Here's what will be submitted:"
-   - **Summary:** one-line description of the request
-   - **Description:** a brief overview of the user's inquiry only — do not prefix it with phrases like "An employee asked the SWI Support Agent the following question, which was not found in the knowledge base:"
+1. Present the ticket details to the user before submitting using this exact format:
+
+   > Would you like me to log a ticket? Here's what will be submitted:
+   >
+   > **Summary:** [topic of the inquiry]
+   >
+   > **Description:** User [name of the user interacting with the bot] made the following inquiry: [describe the user's request]
+
    - **Team:** owning WT sub-team based on domain
 2. Create the ticket via Jira API
 3. Share the ticket URL with the user
