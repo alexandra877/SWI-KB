@@ -40,3 +40,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-05-05 | instagram | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-05 | instagram | Unknown | @Cosmina Felicia Bobes | open |
 | 2026-05-05 | bolt | Unknown | @Cosmina Felicia Bobes | open |
+| 2026-05-05 | bolt | Unknown | @Cosmina Felicia Bobes | open |
