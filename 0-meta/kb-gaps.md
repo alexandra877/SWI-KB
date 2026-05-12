@@ -45,3 +45,4 @@ The support agent reads this file to generate the weekly gap report sent to depa
 | 2026-05-07 | how to create a shared mailbox? | Unknown | @Cosmina Felicia Bobes | notified |
 | 2026-05-11 | test | Unknown | @Cosmina Felicia Bobes | notified |
 | 2026-05-11 | what is your accuracy rate? | Unknown | @Cosmina Felicia Bobes | notified |
+| 2026-05-12 | facebook acces | Unknown | @Cosmina Felicia Bobes | open |
