@@ -123,7 +123,14 @@ On the configured schedule (default: every Monday 09:00 CET):
    - Count of open gaps for their domain
    - Table of questions (date, question, status)
    - A prompt to either answer the question (so the KB can be updated) or confirm it is out of scope
-4. Mark reported gaps as `notified` in `kb-gaps.md`
+4. Send a consolidated all-domain copy of the report to the KB owner (see Global recipients below) so they have full visibility across WT
+5. Mark reported gaps as `notified` in `kb-gaps.md`
+
+**Global recipients (receive the full report across all domains):**
+
+| Recipient | Role | Slack handle |
+|-----------|------|-------------|
+| Alexandra Ciupe | KB owner | @Alexandra Ciupe |
 
 **Department owner Slack handles:**
 
